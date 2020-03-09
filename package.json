@@ -1,0 +1,23 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "49d4429c-1fee-4250-9218-aa214c00bba1"
+	},
+	"author": "Mariam Qasim",
+	"dependencies": {
+		"@framer/benjamin.device": "^1.3.0",
+		"@framer/colebemis.feather-icons": "^1.2.0",
+		"@framer/edoardo.ios-kit": "^1.6.0",
+		"@framer/framer.base": "^1.0.0",
+		"@framer/material-ui.material-ui": "^1.1.0",
+		"@framer/rmarinac89.ios-notification": "^1.2.0"
+	}
+}
